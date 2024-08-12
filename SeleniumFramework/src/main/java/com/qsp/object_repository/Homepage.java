@@ -20,6 +20,7 @@ public class Homepage {
 
 	public WebElement getLogoutlink() {
 		return logoutlink;
+		return logoutlink;
 	}
 	
 	
